@@ -11,4 +11,4 @@
 
 
 
-OpinionSurveyBypassSubmit.js則是不會自動提交表單的版本
+OpinionSurveyBypass.js則是不會自動提交表單的版本
